@@ -1,4 +1,4 @@
 # Learning-CPP
 
-- Simple programs I created while learning C++ for practice and later reference.
+- Simple programs I am creating while learning C++ for practice and later reference. [still in progress] 
 - References: https://youtu.be/-TkoO8Z07hI 
