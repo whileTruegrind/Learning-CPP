@@ -27,3 +27,5 @@ int main()
     oname.clear();                                                     // clears string
     cout << "oname after clear = " << oname << endl; oname = name;
 }
+
+// FOR MORE: https://legacy.cplusplus.com/reference/string/string/
