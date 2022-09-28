@@ -1,8 +1,8 @@
 /*
-Type Conversion:
-    Conversion of one data type to another
-        Implicit = automatic
-        Explicit = Precede value with new data type
+    - Type Conversion:
+        -- Conversion of one data type to another
+            --- Implicit = automatic
+            --- Explicit = Precede value with new data type
 */
 
 #include <iostream>

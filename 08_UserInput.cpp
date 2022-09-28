@@ -1,6 +1,6 @@
 /*
-cout << (insertion operator)
-cin >> (extraction operator)
+    - cout << (insertion operator)
+    - cin >> (extraction operator)
 */
 
 #include <iostream>

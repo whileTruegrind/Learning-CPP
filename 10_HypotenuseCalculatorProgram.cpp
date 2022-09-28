@@ -1,3 +1,5 @@
+// PRACTICE: Hypotenuse calculator
+
 #include <iostream>
 #include <cmath>
 
